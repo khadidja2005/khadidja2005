@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khadidja2005
+- 👋 Hi, I’m @khadidja2005 , Student at **ESI** , member at **GDG Algiers** 
 - 👀 I’m interested in web/mobile development and AI 
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me: mk_brakta@esi.dz
