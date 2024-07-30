@@ -4,7 +4,7 @@
 - 📫 How to reach me: mk_brakta@esi.dz
 - ⚡ Fun fact: I am ESTJ
 - What I know:
-
+<!--
 <p align="start">
   <img alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" style="margin: 0 10px;">
   <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" style="margin: 0 10px;">
@@ -18,7 +18,7 @@
   <img alt="Pandas" src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="50" style="margin: 0 10px;">
   <img alt="TensorFlow" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" style="margin: 0 10px;">
   <img alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" style="margin: 0 10px;">
-</p>
+</p> -->
 
 <!---
 khadidja2005/khadidja2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
