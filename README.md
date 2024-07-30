@@ -6,7 +6,7 @@
 - What I know:
 
 <p align="start">
-  <img alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" style="margin: 0 10px;">
+  <img alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"  style="margin: 0 10px;">
   <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" style="margin: 0 10px;">
   <img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" style="margin: 0 10px;">
   <img alt="MySQL" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="50" style="margin: 0 10px;">
